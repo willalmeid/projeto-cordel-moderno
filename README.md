@@ -7,11 +7,10 @@
 </p>
 
 O Projeto Cordel Moderno é um site com a temática de <strong>Cordel</strong>.
-Este foi o segundo projeto proposto pelo curso de HTML & CSS, do <strong>Cusoemvídeo</strong>.
 
 <br>
 
-Este foi um dos projetos do curso de HTML & CSS, projetado por <a href="https://www.instagram.com/gustavoguanabara/">Gustavo Guanabara</a> e realizado no site do <a href="https://www.cursoemvideo.com/">CursoemVideo</a>.
+Este foi o segundo projeto proposto pelo curso de HTML & CSS, projetado por <a href="https://www.instagram.com/gustavoguanabara/">Gustavo Guanabara</a> e realizado no site do <a href="https://www.cursoemvideo.com/">CursoemVideo</a>.
 
 <br>
 
